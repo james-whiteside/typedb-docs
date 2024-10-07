@@ -15,7 +15,7 @@ The TypeDB crash course is divided into two sections: the environment setup, fol
 // * *Document database users*: Pathway for those used to working with document databases.
 * *Graph database users*: Pathway for those used to working with graph databases.
 
-include::{page-component-version}@home::partial$quick-setup.adoc
+include::{page-component-version}@home::partial$quick-setup.adoc[]
 
 == Running queries
 
